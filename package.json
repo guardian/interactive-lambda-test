@@ -1,0 +1,18 @@
+{
+  "name": "verysimplelambda",
+  "version": "1.0.0",
+  "description": "example lambda to fetch red list data",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.824.0",
+    "axios": "^0.21.1",
+    "jsdom": "^18.0.0",
+    "stringify-attributes": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testRun"
+  },
+  "author": "",
+  "license": "ISC"
+}
